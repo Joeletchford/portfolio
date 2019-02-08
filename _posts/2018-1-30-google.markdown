@@ -19,7 +19,7 @@ style: f6 pv2 bb
 
  <p class="alcove f4 f3-ns">Google Brand Studio</p>
 
-While working at Google I worked on numerous projects that ranged from branding, web design, publication design, and video art direction.
+While at Google, I worked on numerous branding, web design, publication design, and video art direction projects. My work has supported Google drive new products forward while establishing a design identity and internal culture.
 
 
 <!-- line -->
@@ -27,7 +27,7 @@ While working at Google I worked on numerous projects that ranged from branding,
 <!-- h2 -->
 <p class="alcove f4 f3-ns">Game of the Year 2018</p>
 
-This past year I had the opportunity to work on a new initiative for Google's Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.
+This past year, I had the opportunity to work on a new initiative for Google's "Year in Search." Specifically, I developed the brand identity for the new "Game of the Year" while working alongside another designer to develop the game's UI.
 
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
@@ -39,7 +39,7 @@ This past year I had the opportunity to work on a new initiative for Google's Ye
 </div>
 
 
-This past year I had the opportunity to work on a new initiative for Google's Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.
+This past year, I had the opportunity to work on a new initiative for Google's Year in Search. Specifically, I developed the brand identity for the new "Game of the Year" while working alongside another designer to develop the game's UI.
 
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
@@ -79,7 +79,9 @@ Early explorations into the branding and host avatar.
 <!-- h2 -->
 <p class="alcove f4 f3-ns"> Search On Publication </p>
 
-One of my favorite projects at Google to date was the two week publication design sprint that was the Search on book. Myself and a small team of three were tasked with writing, designing, and producing this publication in two weeks, and we did it. This publication now sits on every executives desk and I like to think that Sundar has taken a peek and maybe appreciated that we created a printed piece.
+One of my favorite projects at Google to date was the two week publication design sprint for the "Search On" book. A four-person design team was tasked with writing, designing, and producing the publication in two weeks, including visits to the LA printing studio. This publication now sits on every Google executive's desk--I like to think that Sundar has taken a peek.
+
+126 pages, 9.8 × 7.8, 4 color PMS, perfect bound, clear foil embossed dust jacket.  
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
 ![search on]({{ site.baseurl }}/images/google/search-on/012819-2.jpg){: .db .w-100 }
@@ -126,7 +128,7 @@ One of my favorite projects at Google to date was the two week publication desig
 <!-- h2 -->
 <p class="alcove f4 f3-ns"> Doodle for Google </p>
 
-Doodle for Google is an annual contest open to students in grades K-12. Students are invited to create their own Google doodle for the chance to have it featured on Google.com, as well as win some great scholarships and tech packages for their schools. This year we were tasked with updating the D4G look and feel to help inspire and facilitate more students to think beyond what is possible. I worked with a team of three other designers to bring this to life.
+Doodle for Google (D4G) is an annual contest open to students in grades K-12. Students are invited to create their own Google doodle for the chance to have it featured on Google.com, as well as win scholarships and tech packages for their schools. This year we updated the D4G look and feel to help inspire and facilitate more students to think beyond what is possible. I worked with a team of three other designers to bring this website and brand to life.
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
 ![doodle-4-google]({{ site.baseurl }}/images/google/d4g/1.jpg){: .db .w-100 }
@@ -152,7 +154,7 @@ Doodle for Google is an annual contest open to students in grades K-12. Students
 <!-- h2 -->
 <p class="alcove f4 f3-ns"> Google One  </p>
 
-I was brought to Google to help drive the direction of a new product they have since launched, Google One. For my first few months I set out to visually push the UI in an attempt to help set a new north star for the brand's future. My efforts culminated into a collection of obtainable visual executions which drove the UI and visual identity closer to the essence of google products.
+In one of my first projects at Google, I was brought on to help build out the identity for Google's new drive product, "Google One." With my contributions, I set out to visually push the UI in an attempt to set a new north star for the brand's future. My efforts culminated into a collection of obtainable visual executions which drove the UI and visual identity closer to the essence of Google products.
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
 ![game of the year home]({{ site.baseurl }}/images/google/Google/G1/g1-1.jpg){: .db .w-100 }
@@ -171,7 +173,7 @@ I was brought to Google to help drive the direction of a new product they have s
 <!-- h2 -->
 <p class="alcove f4 f3-ns"> Design Is poster series</p>
 
-One of the first projects I worked on when I got to brand studio was the redesign of the Design Is series. On top of driving the direction of the logo and system the speaker series took on, I leveraged the studios RISO to facilitate a collaborative poster making series. These posters were created to reflect the each talk specifically by pairing a new designer to each edition.
+In my first few months at Google, I worked to redesign the "Design Is" speaker series. On top of driving the direction of the logo and identity system for the series, I leveraged the studio's RISO to facilitate a collaborative poster making series. These posters were created to reflect the each talk specifically by pairing a new designer to each edition.
 
 <div class="fl w-100  w-50-l ph2 " markdown="1">
 ![game of the year home]({{ site.baseurl }}/images/google/studio_culture/empty.jpg){: .db .w-100 }
@@ -198,7 +200,7 @@ One of the first projects I worked on when I got to brand studio was the redesig
 <!-- h2 -->
 <p class="alcove f4 f3-ns"> Brand Studio Culture</p>
 
-In collaboration with the designers at Brand Studio I created many different pieces of ephemera for the studio. Some of my favorites include pins that reference specific projects for the teammates to enjoy and postcards for the studio where all graphics were created using a form of collaboration I started back when I was in grad school—unintentional collaboration.
+In collaboration with the designers at Brand Studio, I created many different pieces of ephemera for the studio. Some of my favorites include pins that reference specific projects for the teammates to enjoy and various postcards using a form of unintentional collaboration I developed while in Grad School.
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
 ![studio pins]({{ site.baseurl }}/images/google/studio_culture/pin.jpg){: .db .w-100 }

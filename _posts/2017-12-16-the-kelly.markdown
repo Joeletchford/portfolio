@@ -15,6 +15,7 @@ location: Bala Cynwyd, PA
 
 The Kelly is inspired by the elegance of Grace Kelly and the golden age of Hollywood. The logo mark was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District, PA.
 
+
 <div class="fl w-100  w-50-l ph2 " markdown="1">
 ![kelly]({{ site.baseurl }}/images/kelly/postcard3.png){: .db .w-100 }
 </div>
@@ -201,25 +202,3 @@ With the brand solidified and the idea for the website sketched out, I moved for
  <div class="fl w-25-l w-50 ph2" markdown="1">
  ![kelly ]({{ site.baseurl }}/images/kelly/full/menu_mobile.jpg){: .db }
  </div>
-
- <div class="fl w-100  ph2 " markdown="1">
- ![kelly land]({{ site.baseurl }}/images/kelly/full/Interactions.jpg){: .db .w-100 }
- </div>
-
- </div>
-
-
- <!-- line -->
- <p class=" mt0 w-100 dib bb mb5 pb3"/>
- <!-- h2 -->
-  <p class="alcove f4 f3-ns">Credits </p>
-
-  Joe Letchford, designer
-
-  Sucha Becky, art director
-
-  Pum Lefebure, creative director
-
-  Jake Lefebure, project manager
-
-  Design Army, design firm

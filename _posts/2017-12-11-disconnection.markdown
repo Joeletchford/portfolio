@@ -18,6 +18,7 @@ pubstyle: f6 pv2 bb
 ---
 This publication and web experience explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.
 
+96 pages, 6.5 × 6.6, CMYK Digital, perfect bound.
 
 <div class="fl w-100  ph2 " markdown="1">
 ![kelly logo]({{ site.baseurl }}/images/disconnection/images/Thesis3.jpg){: .db .w-100 }

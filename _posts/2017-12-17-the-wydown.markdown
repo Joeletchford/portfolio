@@ -104,19 +104,3 @@ The thought for this site was to create something clean, beautiful, and responsi
 <div class="fl w-25-l w-50 ph2 " markdown="1">
 ![kelly postcard back]({{ site.baseurl }}/images/wydown/4-mob.png){: .db .w-100 }
 </div>
-
-
-<!-- line -->
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
-<!-- h2 -->
- <p class="alcove f4 f3-ns">Credits </p>
-
- Joe Letchford, designer
-
- Sucha Becky, art director
-
- Pum Lefebure, creative director
-
- Jake Lefebure, project manager
-
- Design Army, design firm

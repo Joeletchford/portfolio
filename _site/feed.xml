@@ -3,17 +3,17 @@
   <channel>
     <title>Joe Letchford Portfolio</title>
     <description></description>
-    <link>/portfolio-sf/</link>
-    <atom:link href="/portfolio-sf/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Feb 2019 11:12:00 -0800</pubDate>
-    <lastBuildDate>Thu, 07 Feb 2019 11:12:00 -0800</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Feb 2019 22:13:30 -0800</pubDate>
+    <lastBuildDate>Thu, 07 Feb 2019 22:13:30 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Google Brand Studio</title>
         <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Google Brand Studio&lt;/p&gt;
 
-&lt;p&gt;While working at Google I worked on numerous projects that ranged from branding, web design, publication design, and video art direction.&lt;/p&gt;
+&lt;p&gt;While at Google, I worked on numerous branding, web design, publication design, and video art direction projects. My work has supported Google drive new products forward while establishing a design identity and internal culture.&lt;/p&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
@@ -21,46 +21,46 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Game of the Year 2018&lt;/p&gt;
 
-&lt;p&gt;This past year I had the opportunity to work on a new initiative for Google’s Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.&lt;/p&gt;
+&lt;p&gt;This past year, I had the opportunity to work on a new initiative for Google’s “Year in Search.” Specifically, I developed the brand identity for the new “Game of the Year” while working alongside another designer to develop the game’s UI.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/1.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/1.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 mb5&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/2.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/2.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;p&gt;This past year I had the opportunity to work on a new initiative for Google’s Year in Search. My contribution to this project came in the form of branding the identity of Game of the Year, and working alongside another designer to create the game UI.&lt;/p&gt;
+&lt;p&gt;This past year, I had the opportunity to work on a new initiative for Google’s Year in Search. Specifically, I developed the brand identity for the new “Game of the Year” while working alongside another designer to develop the game’s UI.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/3.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/4.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/3.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/5.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/4.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/5.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 mb5 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/6.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/6.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Early explorations into the branding and host avatar.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/7.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/7.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/8.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/8.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/GOTY/9.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/GOTY/9.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -69,42 +69,44 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Search On Publication &lt;/p&gt;
 
-&lt;p&gt;One of my favorite projects at Google to date was the two week publication design sprint that was the Search on book. Myself and a small team of three were tasked with writing, designing, and producing this publication in two weeks, and we did it. This publication now sits on every executives desk and I like to think that Sundar has taken a peek and maybe appreciated that we created a printed piece.&lt;/p&gt;
+&lt;p&gt;One of my favorite projects at Google to date was the two week publication design sprint for the “Search On” book. A four-person design team was tasked with writing, designing, and producing the publication in two weeks, including visits to the LA printing studio. This publication now sits on every Google executive’s desk–I like to think that Sundar has taken a peek.&lt;/p&gt;
+
+&lt;p&gt;126 pages, 9.8 × 7.8, 4 color PMS, perfect bound, clear foil embossed dust jacket.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-2.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-2.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-4.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-4.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-5.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-5.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-6.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-6.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-7.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-7.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-8.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-8.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-9.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-9.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-10.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-10.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/search-on/012819-11.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/search-on/012819-11.jpg&quot; alt=&quot;search on&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -113,22 +115,22 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Doodle for Google &lt;/p&gt;
 
-&lt;p&gt;Doodle for Google is an annual contest open to students in grades K-12. Students are invited to create their own Google doodle for the chance to have it featured on Google.com, as well as win some great scholarships and tech packages for their schools. This year we were tasked with updating the D4G look and feel to help inspire and facilitate more students to think beyond what is possible. I worked with a team of three other designers to bring this to life.&lt;/p&gt;
+&lt;p&gt;Doodle for Google (D4G) is an annual contest open to students in grades K-12. Students are invited to create their own Google doodle for the chance to have it featured on Google.com, as well as win scholarships and tech packages for their schools. This year we updated the D4G look and feel to help inspire and facilitate more students to think beyond what is possible. I worked with a team of three other designers to bring this website and brand to life.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/d4g/1.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/1.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/d4g/2.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/2.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/d4g/3.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/3.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/d4g/4.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/d4g/4.jpg&quot; alt=&quot;doodle-4-google&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -137,16 +139,16 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Google One  &lt;/p&gt;
 
-&lt;p&gt;I was brought to Google to help drive the direction of a new product they have since launched, Google One. For my first few months I set out to visually push the UI in an attempt to help set a new north star for the brand’s future. My efforts culminated into a collection of obtainable visual executions which drove the UI and visual identity closer to the essence of google products.&lt;/p&gt;
+&lt;p&gt;In one of my first projects at Google, I was brought on to help build out the identity for Google’s new drive product, “Google One.” With my contributions, I set out to visually push the UI in an attempt to set a new north star for the brand’s future. My efforts culminated into a collection of obtainable visual executions which drove the UI and visual identity closer to the essence of Google products.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/G1/g1-1.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/G1/g1-1.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/G1/g1-2.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/G1/g1-2.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/Google/G1/g1-3.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/Google/G1/g1-3.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -155,26 +157,26 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Design Is poster series&lt;/p&gt;
 
-&lt;p&gt;One of the first projects I worked on when I got to brand studio was the redesign of the Design Is series. On top of driving the direction of the logo and system the speaker series took on, I leveraged the studios RISO to facilitate a collaborative poster making series. These posters were created to reflect the each talk specifically by pairing a new designer to each edition.&lt;/p&gt;
+&lt;p&gt;In my first few months at Google, I worked to redesign the “Design Is” speaker series. On top of driving the direction of the logo and identity system for the series, I leveraged the studio’s RISO to facilitate a collaborative poster making series. These posters were created to reflect the each talk specifically by pairing a new designer to each edition.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/empty.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/empty.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/business.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/business.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/listening.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/listening.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/equitable.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/equitable.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/speculative.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/speculative.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/systematic.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/systematic.jpg&quot; alt=&quot;game of the year home&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -183,52 +185,52 @@
 &lt;!-- h2 --&gt;
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Brand Studio Culture&lt;/p&gt;
 
-&lt;p&gt;In collaboration with the designers at Brand Studio I created many different pieces of ephemera for the studio. Some of my favorites include pins that reference specific projects for the teammates to enjoy and postcards for the studio where all graphics were created using a form of collaboration I started back when I was in grad school—unintentional collaboration.&lt;/p&gt;
+&lt;p&gt;In collaboration with the designers at Brand Studio, I created many different pieces of ephemera for the studio. Some of my favorites include pins that reference specific projects for the teammates to enjoy and various postcards using a form of unintentional collaboration I developed while in Grad School.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/pin.jpg&quot; alt=&quot;studio pins&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/pin.jpg&quot; alt=&quot;studio pins&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/1-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/1-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/2-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/2-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/2.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/2.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/3-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/3.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/6-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/3-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/6.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/3.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/7-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/6-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/google/studio_culture/7.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/6.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/7-1.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/google/studio_culture/7.jpg&quot; alt=&quot;design by all&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
-        <link>/portfolio-sf/2017/12/27/google.html</link>
-        <guid isPermaLink="true">/portfolio-sf/2017/12/27/google.html</guid>
+        <link>/2017/12/27/google.html</link>
+        <guid isPermaLink="true">/2017/12/27/google.html</guid>
         
         
       </item>
@@ -237,43 +239,33 @@
         <title>Human Rights Campaign 2018</title>
         <description>&lt;p class=&quot;alcove f4 f3-ns&quot;&gt; Human Rights Campaign annual Report 2017 &lt;/p&gt;
 
-&lt;p&gt;For the Human Rights Campaign (HRC)’s 2017 annual report, the decision was made to ‘strip’ back the full-color, glossy publications of prior years. Instead, we designed a large-format magazine. We simplified by using only two colors—HRC’s brand color with crisp black—and printing on newsprint. We made typography the primary vehicle of storytelling. Every spread strengthens the central message—‘unite, resist and enlist’—and the type was modified, elongated and stretched to reflect the tension between the activist and the new administration. The piece is visually striking and dynamic; but more importantly, it energizes the reader to do ‘more.’&lt;/p&gt;
+&lt;p&gt;While at Design Army, I was lead designer for the Human Rights Campaign (HRC) 2017 annual report. We decided to leverage the conceptual elements of large format news print and to ‘strip’ back the full-color, glossy publications of prior years. We incorporated the two HRC brand colors while using crisp, bold typography as primary vehicle for storytelling. The type was modified, elongated, and stretched to reflect the tension between the activist and the new administration. The several central spreads were meant to echo protest and rally posters, designed to strengthen the central message—‘unite, resist and enlist’.&lt;/p&gt;
 
-&lt;p&gt;32 pages, 12 1/2 × 22, black plus 1 PMS, folded. visible you will always know what it is you are picking up.&lt;/p&gt;
+&lt;p&gt;32 pages, 12 1/2 × 22, black plus 1 PMS, folded.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/hrc/hrc-1.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/hrc-1.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/hrc/hrc-2.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/hrc-2.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/hrc/hrc-3.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/hrc-3.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-100-l ph2 mb5&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/hrc/hrc-4.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/hrc-4.jpg&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Initial sketches for the proof of concept.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/hrc/sketches-1.png&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/hrc/sketches-1.png&quot; alt=&quot;hrc&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;!-- h2 --&gt;
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Credits &lt;/p&gt;
-
-&lt;p&gt;Joe Letchford, designer&lt;/p&gt;
-
-&lt;p&gt;Sucha Becky, art director 	∫ Pum Lefebure, creative director 	∫ Jake Lefebure, project manager 	∫ Design Army, design firm&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
-        <link>/portfolio-sf/2017/12/27/HRC.html</link>
-        <guid isPermaLink="true">/portfolio-sf/2017/12/27/HRC.html</guid>
+        <link>/2017/12/27/HRC.html</link>
+        <guid isPermaLink="true">/2017/12/27/HRC.html</guid>
         
         
       </item>
@@ -285,22 +277,22 @@
 &lt;p&gt;For this project I was tasked with creating the web presence for an established DC specialty coffee chain. This brand functions differently than other multiple location brands because The Wydown rebrands each one of its locations whenever they open up another one. The website had to create a structured, simple, clean, and inviting location for patrons to learn about this shop. Currently there are only two locations; however, I focused on a layout that was grid based and easily manipulated in case they continue to expand in the future.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/wydown-sketch.jpg&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/wydown-sketch.jpg&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/home.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/home.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/H.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/H.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/About.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/About.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-25-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/sketch/gallery.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/sketch/gallery.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -312,74 +304,58 @@
 &lt;p&gt;The thought for this site was to create something clean, beautiful, and responsive for mobile. The concept focused on mobile because for most, when searching for a restaurant or a coffee shop, their time searching is spent while on the move. So although the desktop site had to be interesting and compelling, I also had to focus on how that would translate and function easily for mobile.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/1.png&quot; alt=&quot;wydown sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/1.png&quot; alt=&quot;wydown sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/3.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/3.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4-1.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/4-1.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/4.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/2.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/2.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- mobile --&gt;
 &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/5-1-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/5-1-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/5-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/5-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/2-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/2-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/3-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/3-mob.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4-1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/4-1-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/wydown/4-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/wydown/4-mob.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
-
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;!-- h2 --&gt;
-&lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Credits &lt;/p&gt;
-
-&lt;p&gt;Joe Letchford, designer&lt;/p&gt;
-
-&lt;p&gt;Sucha Becky, art director&lt;/p&gt;
-
-&lt;p&gt;Pum Lefebure, creative director&lt;/p&gt;
-
-&lt;p&gt;Jake Lefebure, project manager&lt;/p&gt;
-
-&lt;p&gt;Design Army, design firm&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
-        <link>/portfolio-sf/2017/12/27/the-wydown.html</link>
-        <guid isPermaLink="true">/portfolio-sf/2017/12/27/the-wydown.html</guid>
+        <link>/2017/12/27/the-wydown.html</link>
+        <guid isPermaLink="true">/2017/12/27/the-wydown.html</guid>
         
         
       </item>
@@ -391,15 +367,15 @@
 &lt;p&gt;The Kelly is inspired by the elegance of Grace Kelly and the golden age of Hollywood. The logo mark was developed directly from the interior patterns of the building, while using Kelly green and gold to emphasize the aspirational character of the first building in the newly minted NoBA District, PA.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard3.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard3.png&quot; alt=&quot;kelly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard4.png&quot; alt=&quot;kelly k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard4.png&quot; alt=&quot;kelly k break&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard5.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard5.png&quot; alt=&quot;kelly grid&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -411,17 +387,17 @@
 &lt;p&gt;The grid created to develop the K logo mark was used as my system for creating the entire brand, From the printed material to the website design this grid defines the entire brand.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard6.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard6.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard7.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard7.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard.png&quot; alt=&quot;kelly postcard front&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/postcard2.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/kelly/postcard2.png&quot; alt=&quot;kelly postcard back&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -435,75 +411,75 @@
 &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
   &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/wire-1.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-1.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/wire-2.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-2.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/wire-3.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/wire-3.jpg&quot; alt=&quot;kelly sketch&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
   &lt;!-- &lt;div class=&quot;fl w-50-l ph2&quot; markdown=&quot;1&quot;&gt;
-![kelly land](/portfolio-sf/images/kelly/web/desk/Kelly_landing view.jpg){: .db }
+![kelly land](/images/kelly/web/desk/Kelly_landing view.jpg){: .db }
 &lt;/div&gt; --&gt;
 
   &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_desktop_home.jpg&quot; alt=&quot;kelly fill home &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_desktop_home.jpg&quot; alt=&quot;kelly fill home &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;!-- &lt;div class=&quot;fl w-50-l ph2&quot; markdown=&quot;1&quot;&gt;
-![kelly floorplan](/portfolio-sf/images/kelly/web/desk/Kelly_floorplan_home.png){: .db }
+![kelly floorplan](/images/kelly/web/desk/Kelly_floorplan_home.png){: .db }
 &lt;/div&gt; --&gt;
 
   &lt;div class=&quot;fl w-50-l ph2&quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_Neighborhood.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_Neighborhood.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_Floorplan_detail.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_Floorplan_detail.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;fl w-50-l ph2 &quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/desk/Kelly_nav option.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/kelly/web/desk/Kelly_nav option.jpg&quot; alt=&quot;kelly floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;w-100 center flex-l flex-wrap-l&quot;&gt;
 
     &lt;!--
 &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![kelly mobile land ](/portfolio-sf/images/kelly/web/landing_page_mobile.jpg){: .db  }
+![kelly mobile land ](/images/kelly/web/landing_page_mobile.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/Home_mobile.jpg&quot; alt=&quot;kelly phome mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/Home_mobile.jpg&quot; alt=&quot;kelly phome mobile&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;!-- &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![floor plan ](/portfolio-sf/images/kelly/web/Floorplan-landing.jpg){: .db  }
+![floor plan ](/images/kelly/web/Floorplan-landing.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2 &quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/floorplans.jpg&quot; alt=&quot;floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/floorplans.jpg&quot; alt=&quot;floorplan&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;!-- &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![meniu](/portfolio-sf/images/kelly/web/menu-mobile.jpg){: .db  }
+![meniu](/images/kelly/web/menu-mobile.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/neighborhood-mobile.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/neighborhood-mobile.jpg&quot; alt=&quot;kelly neighborhood &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-      &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/web/neighnorhood-click.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;img src=&quot;/images/kelly/web/neighnorhood-click.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;!-- &lt;div class=&quot;fl w-25-l ph2 &quot; markdown=&quot;1&quot;&gt;
-![image ](/portfolio-sf/images/kelly/web/image-expanded-m.jpg){: .db  }
+![image ](/images/kelly/web/image-expanded-m.jpg){: .db  }
 &lt;/div&gt; --&gt;
 
     &lt;!-- line --&gt;
@@ -517,78 +493,57 @@
     &lt;div class=&quot;w-100  center flex-l flex-wrap-l&quot;&gt;
 
       &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/kelly_landing_view.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/kelly_landing_view.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_desktop_home.jpg&quot; alt=&quot;kelly desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_desktop_home.jpg&quot; alt=&quot;kelly desk&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/kelly_neighborhood.jpg&quot; alt=&quot;neighborhood&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/kelly_neighborhood.jpg&quot; alt=&quot;neighborhood&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_gallery.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_gallery.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_Gallery_full.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_Gallery_full.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/kelly_nav_option.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/kelly_nav_option.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-100  w-50-l ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Kelly_404.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/Kelly_404.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;!-- mobile --&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/home.jpg&quot; alt=&quot;kelly&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/home.jpg&quot; alt=&quot;kelly&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/neighborhood.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/neighborhood.jpg&quot; alt=&quot;kelly neighborhood&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/gallery_mobile.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/gallery_mobile.jpg&quot; alt=&quot;kelly gallery&quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
 
       &lt;div class=&quot;fl w-25-l w-50 ph2&quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/menu_mobile.jpg&quot; alt=&quot;kelly &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/kelly/full/menu_mobile.jpg&quot; alt=&quot;kelly &quot; class=&quot;db&quot; /&gt;&lt;/p&gt;
       &lt;/div&gt;
-
-      &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-        &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/kelly/full/Interactions.jpg&quot; alt=&quot;kelly land&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-      &lt;/div&gt;
-
     &lt;/div&gt;
-
-    &lt;p&gt;&lt;!-- line --&gt;&lt;/p&gt;
-    &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-    &lt;p&gt;&lt;!-- h2 --&gt;&lt;/p&gt;
-    &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Credits &lt;/p&gt;
-
-    &lt;p&gt;Joe Letchford, designer&lt;/p&gt;
-
-    &lt;p&gt;Sucha Becky, art director&lt;/p&gt;
-
-    &lt;p&gt;Pum Lefebure, creative director&lt;/p&gt;
-
-    &lt;p&gt;Jake Lefebure, project manager&lt;/p&gt;
-
-    &lt;p&gt;Design Army, design firm&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
-        <link>/portfolio-sf/2017/12/27/the-kelly.html</link>
-        <guid isPermaLink="true">/portfolio-sf/2017/12/27/the-kelly.html</guid>
+        <link>/2017/12/27/the-kelly.html</link>
+        <guid isPermaLink="true">/2017/12/27/the-kelly.html</guid>
         
         
       </item>
@@ -599,25 +554,27 @@
 
 &lt;p&gt;The design of this catalog was based around two sidereal years to represent the amount of time these graduates spent in the program. Another major conceptual aspect to this publication had to do with the spiral bind. This binding decision was dictated by my desire for the cycle and that the publication itself was a cyclical object, not linear. Keeping with this conceptual idea, I created the system within the publication to adhere to this cycle. Each spread theoretically represents itself as the cover, by keeping the necessary information visible you will always know what it is you are picking up.&lt;/p&gt;
 
+&lt;p&gt;85 pages, 7 x 10, CMYK Digital, spiral bound.&lt;/p&gt;
+
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/cover.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/cover.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/coveropen.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/coveropen.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/eric.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/eric.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/liza.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/liza.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/preston.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/preston.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/redspread.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/redspread.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -627,16 +584,16 @@
 &lt;p class=&quot;alcove f4 f3-ns&quot;&gt;Select Exhibition Signage &lt;/p&gt;
 
 &lt;div class=&quot;w-100 w-50-ns center pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/poster.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/poster.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;w-100 w-50-ns center pr2-l pb2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/thesis-exhibition/map.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/thesis-exhibition/map.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
-        <link>/portfolio-sf/2017/12/27/graduate.html</link>
-        <guid isPermaLink="true">/portfolio-sf/2017/12/27/graduate.html</guid>
+        <link>/2017/12/27/graduate.html</link>
+        <guid isPermaLink="true">/2017/12/27/graduate.html</guid>
         
         
       </item>
@@ -645,20 +602,22 @@
         <title>Disconnection; A Neutral-Gear A Semi-Solid</title>
         <description>&lt;p&gt;This publication and web experience explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.&lt;/p&gt;
 
+&lt;p&gt;96 pages, 6.5 × 6.6, CMYK Digital, perfect bound.&lt;/p&gt;
+
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis41.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Human connections are no longer limited to face-to-face encounters, mouth to ear, or the subtleties of our shifting limbs. The digital world fosters new and different communication as it continues to expand our interactions daily—constant, ever-present, threading itself through the most intimate moments we experience. We use these digital frameworks of interaction for the same purposes as physical interaction, because this realm is real. No longer a secondary virtual existence, the web is now a cultural and existential norm. From this viewpoint I explore the notions of disconnection in relation to ubiquitous digital culture and presence. This work focuses on the conscious decision to disconnect working towards informing a future reconnection with combined cultural and societal existence. Technology’s fluidity, complementary to our existence, facilitates a personal self-awareness—or presence—but disconnecting oneself from these connective tools facilitates the feelings of connection and presence in nature.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis33.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/images/Thesis10.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -670,21 +629,21 @@
 &lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -696,21 +655,21 @@
 &lt;p&gt;The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.&lt;/p&gt;
 
 &lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg2.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg7.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg3.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg4.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/disconnection/pg6.jpg&quot; alt=&quot;kelly logo&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -726,8 +685,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
-        <link>/portfolio-sf/2017/12/27/disconnection.html</link>
-        <guid isPermaLink="true">/portfolio-sf/2017/12/27/disconnection.html</guid>
+        <link>/2017/12/27/disconnection.html</link>
+        <guid isPermaLink="true">/2017/12/27/disconnection.html</guid>
         
         
       </item>
@@ -735,7 +694,7 @@
       <item>
         <title>Logos and Various Projects</title>
         <description>&lt;!--
-![alt text](/portfolio-sf/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
+![alt text](/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } --&gt;
 
 &lt;p class=&quot;alcove f4 f3-ns &quot;&gt; Various branding projects and one off designed material to enjoy &lt;/p&gt;
 
@@ -743,10 +702,10 @@
 
 &lt;!-- endless --&gt;
 &lt;div class=&quot;fl w-100-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/2-7-19/endless-brand.jpg&quot; alt=&quot;endless&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/2-7-19/endless-brand.jpg&quot; alt=&quot;endless&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/2-7-19/endless-label.jpg&quot; alt=&quot;endless&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/2-7-19/endless-label.jpg&quot; alt=&quot;endless&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
@@ -754,119 +713,127 @@
 
 &lt;!-- two chimes  --&gt;
 &lt;div class=&quot;fl w-100-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/2-7-19/two-chimes.jpg&quot; alt=&quot;2-chimes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/2-7-19/two-chimes.jpg&quot; alt=&quot;2-chimes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/2-7-19/ugly.jpg&quot; alt=&quot;ugly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/2-7-19/ugly.jpg&quot; alt=&quot;ugly&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/postcard.png&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/postcard.png&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_1.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_2.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_3.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/RWD-browser_4.jpg&quot; alt=&quot;rh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/rowden.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/2-7-19/sierra-1.jpg&quot; alt=&quot;Third Rail&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;fl w-100 w-50-l  ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;fl w-100 w-100-l  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/2-7-19/sierra-2.jpg&quot; alt=&quot;NYC postcard&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;!-- line --&gt;
+&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
+
+&lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/2-7-19/01.jpg&quot; alt=&quot;marcell&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100 w-100-l ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/rowden.jpg&quot; alt=&quot;rowden&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;fl w-100 w-100-l  ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/circle-of-protection-bc.jpg&quot; alt=&quot;josh&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;house as field &quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Paper-Tube-Mockup.jpg&quot; alt=&quot;house as field &quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;house as field&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/A4-Paper-PSD-MockUp-4.jpg&quot; alt=&quot;house as field&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/10.jpg&quot; alt=&quot;Masters of Sustainability&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/print-mag.gif&quot; alt=&quot;print&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/print-mag.gif&quot; alt=&quot;print&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-50-l w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/print-mag.jpg&quot; alt=&quot;print&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/print-mag.jpg&quot; alt=&quot;print&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- line --&gt;
-&lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
-
-&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png&quot; alt=&quot;baseline&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis26.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 w-50-l ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis29.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Thesis30.jpg&quot; alt=&quot;thesis&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
 &lt;div class=&quot;fl w-100 ph2 &quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/portfolio-sf/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/Screen Shot 2017-03-29 at 4.39.39 PM.png&quot; alt=&quot;eyes&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;!-- line --&gt;
 &lt;p class=&quot; mt0 w-100 dib bb mb5 pb3&quot; /&gt;
 
-&lt;!-- ~~~
-
-~~~ --&gt;
+&lt;div class=&quot;fl w-100 ph2 &quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/various/presentation31.jpg&quot; alt=&quot;Thesis diagram&quot; class=&quot;db w-100&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 21:43:32 -0800</pubDate>
-        <link>/portfolio-sf/2017/12/27/various.html</link>
-        <guid isPermaLink="true">/portfolio-sf/2017/12/27/various.html</guid>
+        <link>/2017/12/27/various.html</link>
+        <guid isPermaLink="true">/2017/12/27/various.html</guid>
         
         
       </item>

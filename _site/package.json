@@ -3,7 +3,7 @@
   "version": "",
   "description": "",
   "main": "index.js",
-  "repository": "joeletchford/portfolio-sf",
+  "repository": "joeletchford/strava",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

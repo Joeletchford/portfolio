@@ -6,7 +6,7 @@ img: /images/various/2-7-19/title.jpg
 head-img:
 year: 2017
 type: Publication, Web, Exhibition, Illustration, Infographic.  
-location: Minneapolis, Richmond, DC.
+location: Minneapolis, Richmond, Washington DC, San Francisco.
 
 ---
 <!--
@@ -65,16 +65,34 @@ This post is a collection of various projects and materials that I have created 
 ![rh]({{ site.baseurl }}/images/various/RWD-browser_4.jpg){: .db .w-100 }
 </div>
 
+
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
 
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![Third Rail]({{ site.baseurl }}/images/various/rowden.jpg){: .db .w-100 }
+<div class="fl w-100 w-100-l ph2 " markdown="1">
+![Third Rail]({{ site.baseurl }}/images/various/2-7-19/sierra-1.jpg){: .db .w-100 }
 </div>
 
-<div class="fl w-100 w-50-l  ph2 " markdown="1">
-![NYC postcard]({{ site.baseurl }}/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
+<div class="fl w-100 w-100-l  ph2 " markdown="1">
+![NYC postcard]({{ site.baseurl }}/images/various/2-7-19/sierra-2.jpg){: .db .w-100 }
+</div>
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+
+<div class="fl w-100 w-100-l ph2 " markdown="1">
+![marcell]({{ site.baseurl }}/images/various/2-7-19/01.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100 w-100-l ph2 " markdown="1">
+![rowden]({{ site.baseurl }}/images/various/rowden.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100 w-100-l  ph2 " markdown="1">
+![josh]({{ site.baseurl }}/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
 </div>
 
 
@@ -121,15 +139,6 @@ This post is a collection of various projects and materials that I have created 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 
-<div class="fl w-100 ph2 " markdown="1">
-![Thesis diagram]({{ site.baseurl }}/images/various/presentation31.jpg){: .db .w-100 }
-</div>
-
-
-<!-- line -->
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
-
-
 <div class="fl w-100 w-50-l ph2 " markdown="1">
 ![thesis]({{ site.baseurl }}/images/various/Thesis26.jpg){: .db .w-100 }
 </div>
@@ -149,9 +158,9 @@ This post is a collection of various projects and materials that I have created 
 </div>
 
 
-
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
-<!-- ~~~
 
-~~~ -->
+<div class="fl w-100 ph2 " markdown="1">
+![Thesis diagram]({{ site.baseurl }}/images/various/presentation31.jpg){: .db .w-100 }
+</div>
