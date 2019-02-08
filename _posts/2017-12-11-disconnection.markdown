@@ -2,7 +2,7 @@
 layout: post
 title:  "Disconnection; A Neutral-Gear A Semi-Solid"
 date:   2017-12-28 01:43:32 -0400
-img: images/disconnection/disconnection.jpg
+img: /images/disconnection/disconnection.jpg
 head-img: /images/disconnection/images/Thesis-Cover-Option.jpg
 year: 2017
 type: Publication, Web Interface & Design, Exhibition.  

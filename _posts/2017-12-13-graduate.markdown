@@ -2,8 +2,8 @@
 layout: post
 title:  "2016 Graduate Thesis"
 date:   2017-12-28 01:43:32 -0400
-img: 		images/thesis-exhibition/card_small.png
-head-img: images/thesis-exhibition/card_small.png
+img: 		/images/thesis-exhibition/card_small.png
+head-img: /images/thesis-exhibition/card_small.png
 year: 2016
 type: Publication & Exhibition Identity.  
 location: Minneapolis, MN
