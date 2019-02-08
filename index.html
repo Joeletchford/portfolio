@@ -18,9 +18,9 @@ layout: default
           <p class="measure f6 mt2">Branding, Identity, Web Design, Brand Development, Collateral Design, Print and Publication Design, Art Direction, Rapid Prototyping, HTML, CSS, Adobe Suite, Sketch, InVision. </p>
           </p>
 					<p class="measure f6 alcove mt2 mb0">Sites, Prototypes & Quick Builds &rarr;</p>
-					<a class="f6 mt2 black link underline-hover" target="_blank" href="http://joeletchford.com/">Joeletchford.com</a>,
-					<a class="measure f6 mt2 black link underline-hover" target="_blank" href="https://joeletchford.github.io/Wydown/index.html">The Wydown Rapid Prototype</a>,
-					<a class="measure f6 mt2 black link underline-hover" target="_blank" href="https://joeletchford.github.io/diego-p/">Diego Jimenez Portfolio</a> <br class="dn db-l">,
+					<a class="f6 mt2 black link underline-hover" target="_blank" href="http://joeletchford.com/">Joeletchford.com,</a>
+					<a class="measure f6 mt2 black link underline-hover" target="_blank" href="https://joeletchford.github.io/Wydown/index.html">The Wydown Rapid Prototype,</a>
+					<a class="measure f6 mt2 black link underline-hover" target="_blank" href="https://joeletchford.github.io/diego-p/">Diego Jimenez Portfolio,</a> <br class="dn db-l">
 				<a class="measure f6 mt2 black link underline-hover" target="_blank" href="http://riggsward.com/">*Riggs Ward</a>
 					<!-- <a class="measure f6 mt2 black link underline-hover" target="_blank" href="http://riggsward.com/">*NMB </a> -->
   		</div>
@@ -99,7 +99,7 @@ layout: default
         {% for post in site.posts %}
 <!-- {{ site.baseurl }}/   add to href for post link on idex -->
         <div class="fl-l pv2 vh-50 mw7-m w-100">
-          <a href="{{ post.url }}" class="link dt hide-child bg-center cover h-100 w-100 " style="background-image:url({{ post.img }});">
+          <a href="{{ site.baseurl }}/{{ post.url }}" class="link dt hide-child bg-center cover h-100 w-100 " style="background-image:url({{ post.img }});">
             <h1 class="f3-l f4 lh-copy w-100 white tc dtc v-mid child pb0 h-100  bg-black-80">
             {{ post.title }}
             <div class="alcove f6-l f7 white lh-solid pt0"> {{ post.type }}</div>
