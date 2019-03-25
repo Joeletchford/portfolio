@@ -27,7 +27,7 @@ While at Google, I worked on numerous branding, web design, publication design, 
 <!-- h2 -->
 <p class="alcove f4 f3-ns">About.google editorial refresh *current project* </p>
 
-Currently, I am apart of the design team working to rethink and redesign the way that Google teams tell stories on our about editorial page. In its current state our internal publishing templates are limited and frankly not very interesting for our global teams.  
+Currently, I am apart of the design team working to rethink and redesign the way that Google teams tell stories on our about editorial page. In its current state our internal publishing templates are limited and frankly not very interesting for our global teams. We are working towards giving teams the ability to create editorial content that it both interesting and unique while working within a consistent and identifiable system that represents Googles multifaceted identity. 
 
 
 <!-- line -->
