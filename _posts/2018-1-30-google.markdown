@@ -25,6 +25,14 @@ While at Google, I worked on numerous branding, web design, publication design, 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
+<p class="alcove f4 f3-ns">About.google editorial refresh *current project* </p>
+
+Currently, I am apart of the design team working to rethink and redesign the way that Google teams tell stories on our about editorial page. In its current state our internal publishing templates are limited and frankly not very interesting for our global teams.  
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
 <p class="alcove f4 f3-ns">Game of the Year 2018</p>
 
 This past year, I had the opportunity to work on a new initiative for Google's "Year in Search." Specifically, I developed the brand identity for the new "Game of the Year" while working alongside another designer to develop the game's UI.
