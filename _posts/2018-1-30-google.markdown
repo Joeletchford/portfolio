@@ -27,9 +27,17 @@ While at Google, I worked on numerous branding, web design, publication design, 
 <!-- h2 -->
 <p class="alcove f4 f3-ns">About.google editorial refresh *current project* </p>
 
-Currently, I am apart of the design team working to rethink and redesign the way that Google teams tell stories on our about editorial page. In its current state our internal publishing templates are limited and frankly not very interesting for our global teams. We are working towards giving teams the ability to create editorial content that it both interesting and unique while working within a consistent and identifiable system that represents Googles multifaceted identity. 
+Currently, I am apart of the design team working to rethink and redesign the way that Google teams tell stories on our about editorial page. In its current state our internal publishing templates are limited and frankly not very interesting for our global teams. We are working towards giving teams the ability to create editorial content that it both interesting and unique while working within a consistent and identifiable system that represents Googles multifaceted identity.
 
 
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns">Moments in Search: IWD</p>
+
+For this years International Women's Day, Google Brand Studio took a different approach from what other companies were doing to celebrate. This short video celebrates the influence of Black women and girls today and in history. My involvement in the making of this video was during the initial stages and ideation. I was one of two designers storyboarding and exploring typographic executions for the video following the direction of the copywriters, content strategists, and creative leads. Another contribution of mine on this project was curating the selection of potential music that would align to the concept while being relevant and contemporary.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//yD5glIyjRMk' frameborder='0' allowfullscreen></iframe></div>
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
