@@ -3,7 +3,7 @@
   "version": "",
   "description": "",
   "main": "index.js",
-  "repository": "joeletchford/google",
+  "repository": "joeletchford/portfolio",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
