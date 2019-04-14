@@ -1,8 +1,8 @@
 # Site settings
-title: Joe Letchford Portfolio
+title: joe-portfolio
 version: ""
 description: ""
-baseurl: "/portfolio" #   the subpath of your site, /portfolio-sf
+baseurl: "portfolio" #   the subpath of your site, /portfolio
 url: "" # the base hostname & protocol for your site
 
 # Tachyons Version

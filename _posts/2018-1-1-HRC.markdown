@@ -2,19 +2,18 @@
 layout: post
 title:  "Human Rights Campaign 2017"
 date:   2017-12-28 01:43:32 -0400
-img: 		/images/hrc/hrc-2.jpg
+img: 		/images/hrc/on-the-rise.jpg
 head-img:  /images/hrc/hrc-1.jpg
 year: 2017–18
-type: Publication.  
+type: Publication Design
 location: Washington, DC
 webtitle: D&AD </span> –
 website: https://www.dandad.org/awards/professional/2018/graphic-design/26952/hrc-annual-report/
 websitename: HRC Annual Report &rarr;
-style: pv2 bb
-
+style: pv2 f6 bb
 webtitle2: Commarts </span> –
 website2: https://www.commarts.com/project/27599/human-rights-campaign-annual-report
-webstyle: pv2 bb
+webstyle: pv2 f6 bb
 websitename2: HRC Annual Report &rarr;
 
 ---
@@ -22,8 +21,6 @@ websitename2: HRC Annual Report &rarr;
 <p class="alcove f4 f3-ns"> Human Rights Campaign annual Report 2017 </p>
 
 While at Design Army, I was lead designer for the Human Rights Campaign (HRC) 2017 annual report. We decided to leverage the conceptual elements of large format news print and to ‘strip’ back the full-color, glossy publications of prior years. We incorporated the two HRC brand colors while using crisp, bold typography as primary vehicle for storytelling. The type was modified, elongated, and stretched to reflect the tension between the activist and the new administration. The several central spreads were meant to echo protest and rally posters, designed to strengthen the central message—‘unite, resist and enlist’.
-
-32 pages, 12 1/2 × 22, black plus 1 PMS, folded.
 
 <div class="fl w-100  pr2-l pb2" markdown="1">
 ![hrc]({{ site.baseurl }}/images/hrc/hrc-1.jpg){: .db .w-100 }
@@ -39,9 +36,4 @@ While at Design Army, I was lead designer for the Human Rights Campaign (HRC) 20
 ![hrc]({{ site.baseurl }}/images/hrc/hrc-4.jpg){: .db .w-100 }
 </div>
 
-Initial sketches for the proof of concept.
-
-
-<div class="fl w-100  pr2-l pb2" markdown="1">
-![hrc]({{ site.baseurl }}/images/hrc/sketches-1.png){: .db .w-100 }
-</div>
+32 pages, 12 1/2 × 22, black plus 1 PMS, folded.

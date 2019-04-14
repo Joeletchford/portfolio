@@ -4,17 +4,18 @@ title:  "Google Brand Studio"
 date:   2017-12-28 01:43:32 -0400
 img: /images/google/home-headder.png
 
-year: 2018&rarr;2019
-type: Web Design, Branding, Publication Design.  
+year: 2018&rarr;Now
+type: Web Design, Editorial Design, Branding, Publication Design.  
 location: San Francisco, CA.
-webtitle: Website(s) </span> —
-website: https://doodles.google.com/d4g/
-websitename: Game of the Year,<span> <a class="f6 mt2 black link underline-hover" target="_blank" href="https://doodles.google.com/d4g/">Doodle for Google, </a> <span> <a class="f6 mt2 black link underline-hover" target="_blank" href="https://www.youtube.com/playlist?list=PL590L5WQmH8dIdGztNYxH2SyMKwY_2Zwq#_ga=2.255468170.388998004.1549253508-943015284.1549253508">Search On, </a>
-website-1: https://gameoftheyear.withgoogle.com/
-websitename-1: Game of the Year &rarr;
+webtitle: Website </span> —
+websitename: Game of the Year &rarr;
+website: https://gameoftheyear.withgoogle.com/
+style: pv2 f6 bb
 
-style: f6 pv2 bb
-
+webtitle2: about.google </span> –
+website2: https://about.google/stories/gpsart/
+webstyle: pv2 f6 bb
+websitename2:  Yassan Doorway &rarr;
 ---
 
  <p class="alcove f4 f3-ns">Google Brand Studio</p>
@@ -29,66 +30,34 @@ While at Google, I worked on numerous branding, web design, publication design, 
 
 Currently, I am apart of the design team working to rethink and redesign the way that Google teams tell stories on our about editorial page. In its current state our internal publishing templates are limited and frankly not very interesting for our global teams. We are working towards giving teams the ability to create editorial content that it both interesting and unique while working within a consistent and identifiable system that represents Googles multifaceted identity.
 
-
 <!-- line -->
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class=" tc mt2 w-100  mb2"> ⁂ </p>
 <!-- h2 -->
-<p class="alcove f4 f3-ns">Moments in Search: IWD</p>
 
-For this years International Women's Day, Google Brand Studio took a different approach from what other companies were doing to celebrate. This short video celebrates the influence of Black women and girls today and in history. My involvement in the making of this video was during the initial stages and ideation. I was one of two designers storyboarding and exploring typographic executions for the video following the direction of the copywriters, content strategists, and creative leads. Another contribution of mine on this project was curating the selection of potential music that would align to the concept while being relevant and contemporary.
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//yD5glIyjRMk' frameborder='0' allowfullscreen></iframe></div>
-<!-- line -->
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
-<!-- h2 -->
-<p class="alcove f4 f3-ns">Game of the Year 2018</p>
-
-This past year, I had the opportunity to work on a new initiative for Google's "Year in Search." Specifically, I developed the brand identity for the new "Game of the Year" while working alongside another designer to develop the game's UI.
+Below is the first of our new editorial updates. We launched this alongside the most recent Google series to ensure that the team had its own unique doorway. Unfortunately the editorial additions we have made are currently in development and won't be live until the fall.
 
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/1.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100  w-100-l ph2 mb5" markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/2.jpg){: .db .w-100 }
+![search on]({{ site.baseurl }}/images/google/editorial/yassan.png){: .db .w-100 }
 </div>
 
 
-This past year, I had the opportunity to work on a new initiative for Google's Year in Search. Specifically, I developed the brand identity for the new "Game of the Year" while working alongside another designer to develop the game's UI.
+<!-- line -->
+<p class=" mt0 w-100 dib  mb2 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns">About.google video player </p>
 
-
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/3.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/4.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/5.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100  w-50-l ph2 mb5 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/6.jpg){: .db .w-100 }
-</div>
-
-
-Early explorations into the branding and host avatar.
-
+I recently designed a relatively innocuous ui update that changed all video CTA overlays across Google's about site.
+This small change to these videos increased viewer engagement by 96 percent. Although this isn’t the most interesting visually it was however a very eyeopening experience. Never before had I seen my own design make such a visible difference to the function and success of something.
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/7.jpg){: .db .w-100 }
+![search on]({{ site.baseurl }}/images/google/editorial/mis-video-about.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/8.jpg){: .db .w-100 }
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![search on]({{ site.baseurl }}/images/google/editorial/mis-video-module.png){: .db .w-100 }
 </div>
 
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/9.jpg){: .db .w-100 }
-</div>
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
@@ -96,8 +65,6 @@ Early explorations into the branding and host avatar.
 <p class="alcove f4 f3-ns"> Search On Publication </p>
 
 One of my favorite projects at Google to date was the two week publication design sprint for the "Search On" book. A four-person design team was tasked with writing, designing, and producing the publication in two weeks, including visits to the LA printing studio. This publication now sits on every Google executive's desk--I like to think that Sundar has taken a peek.
-
-126 pages, 9.8 × 7.8, 4 color PMS, perfect bound, clear foil embossed dust jacket.  
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
 ![search on]({{ site.baseurl }}/images/google/search-on/012819-2.jpg){: .db .w-100 }
@@ -137,49 +104,70 @@ One of my favorite projects at Google to date was the two week publication desig
 ![search on]({{ site.baseurl }}/images/google/search-on/012819-11.jpg){: .db .w-100 }
 </div>
 
+126 pages, 9.8 × 7.8, 4 color PMS, perfect bound, clear foil embossed dust jacket.  
 
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
-<p class="alcove f4 f3-ns"> Doodle for Google </p>
+<p class="alcove f4 f3-ns">Moments in Search: IWD</p>
 
-Doodle for Google (D4G) is an annual contest open to students in grades K-12. Students are invited to create their own Google doodle for the chance to have it featured on Google.com, as well as win scholarships and tech packages for their schools. This year we updated the D4G look and feel to help inspire and facilitate more students to think beyond what is possible. I worked with a team of three other designers to bring this website and brand to life.
+For this years International Women's Day, Google Brand Studio took a different approach from what other companies were doing to celebrate. This short video celebrates the influence of Black women and girls today and in history.
 
-<div class="fl w-100  w-100-l ph2 " markdown="1">
-![doodle-4-google]({{ site.baseurl }}/images/google/d4g/1.jpg){: .db .w-100 }
-</div>
+<p class=" tc mt2 w-100  mb2"> ⁂ </p>
 
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![doodle-4-google]({{ site.baseurl }}/images/google/d4g/2.jpg){: .db .w-100 }
-</div>
+My involvement in the making of this video was during the initial stages and ideation. I was one of two designers storyboarding and exploring typographic executions for the video following the direction of the copywriters, content strategists, and creative leads. I also had the pleasure of choosing the song that accompanies the video.
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//yD5glIyjRMk' frameborder='0' allowfullscreen></iframe></div>
 
-<div class="fl w-100  w-50-l ph2 " markdown="1">
-![doodle-4-google]({{ site.baseurl }}/images/google/d4g/3.jpg){: .db .w-100 }
-</div>
-
-
-<div class="fl w-100  w-100-l ph2 " markdown="1">
-![doodle-4-google]({{ site.baseurl }}/images/google/d4g/4.jpg){: .db .w-100 }
-</div>
 
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>
 <!-- h2 -->
-<p class="alcove f4 f3-ns"> Google One  </p>
+<p class="alcove f4 f3-ns">Game of the Year 2018</p>
 
-In one of my first projects at Google, I was brought on to help build out the identity for Google's new drive product, "Google One." With my contributions, I set out to visually push the UI in an attempt to set a new north star for the brand's future. My efforts culminated into a collection of obtainable visual executions which drove the UI and visual identity closer to the essence of Google products.
+This past year, I had the opportunity to work on a new initiative for Google's "Year in Search." Specifically, I developed the brand identity for the new "Game of the Year" while working alongside another designer to develop the game's UI.
+
 
 <div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/G1/g1-1.jpg){: .db .w-100 }
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/1.jpg){: .db .w-100 }
 </div>
+
 <div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/G1/g1-2.jpg){: .db .w-100 }
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/2.jpg){: .db .w-100 }
 </div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/3.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/4.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/5.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 mb5 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/6.jpg){: .db .w-100 }
+</div>
+
+
+Early explorations into the branding and host avatar.
+
+
 <div class="fl w-100  w-100-l ph2 " markdown="1">
-![game of the year home]({{ site.baseurl }}/images/google/Google/G1/g1-3.jpg){: .db .w-100 }
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/7.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/8.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100  w-50-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/GOTY/9.jpg){: .db .w-100 }
 </div>
 
 
@@ -210,6 +198,26 @@ In my first few months at Google, I worked to redesign the "Design Is" speaker s
 <div class="fl w-100  w-50-l ph2 " markdown="1">
 ![game of the year home]({{ site.baseurl }}/images/google/studio_culture/systematic.jpg){: .db .w-100 }
 </div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<!-- h2 -->
+<p class="alcove f4 f3-ns"> Google One  </p>
+
+In one of my first projects at Google, I was brought on to help build out the identity for Google's new drive product, "Google One." With my contributions, I set out to visually push the UI in an attempt to set a new north star for the brand's future. My efforts culminated into a collection of obtainable visual executions which drove the UI and visual identity closer to the essence of Google products.
+
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/G1/g1-1.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/G1/g1-2.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100  w-100-l ph2 " markdown="1">
+![game of the year home]({{ site.baseurl }}/images/google/Google/G1/g1-3.jpg){: .db .w-100 }
+</div>
+
+
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>

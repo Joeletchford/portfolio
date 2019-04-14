@@ -11,11 +11,17 @@ webtitle: Code </span> —
 website: https://github.com/Joeletchford/thesis
 websitename: Disconnection &rarr;
 style: f6 pv2 bb
-pubtitle: Publication </span> –
-pubsite: https://issuu.com/joeletchford/docs/letchford_final_thesis_guts
-pubname: Disconnection; A Neutral-Gear A Semi-Solid &rarr;
-pubstyle: f6 pv2 bb
+
+webtitle2: Publication </span> –
+website2: https://issuu.com/joeletchford/docs/letchford_final_thesis_guts
+websitename2: Disconnection; A Neutral-Gear A Semi-Solid &rarr;
+webstyle: pv2 f6 bb
+
+
 ---
+
+<p class="alcove f4 f3-ns "> Disconnection; A Neutral-Gear A Semi-Solid </p>
+
 This publication and web experience explores what it means to choose to disconnect from a digital presence in today’s post-digital environment. I question whether the possibility of experiencing a sense of connection or transcendence is directly correlated with disconnecting from an online presence.
 
 96 pages, 6.5 × 6.6, CMYK Digital, perfect bound.
@@ -67,33 +73,6 @@ The main body of work created parallel with the written thesis publication. This
 </div>
 
 
-
-
-<!-- line -->
-<p class=" mt0 w-100 dib bb mb5 pb3"/>
-<!-- h2 -->
- <p class="alcove f4 f3-ns"> Environment Application </p>
-
-The main body of work created parallel with the written thesis publication. This web interaction is my illustration of the Atmospheric Disconnection. Within this interaction I am pushing to create a piece that implements both an appreciation and observance, as well as an active element of participation. The web is activated by one individual whose touch directly effects the film. These interactions are my insights into my interest in our technologies and how they have reached a presence best illustrated as the atmosphere and how we reach moments of un-knowing in such a ubiquitous digital existence.
-
-
-<div class="fl w-100 w-100-l ph2 " markdown="1">
-![kelly logo]({{ site.baseurl }}/images/disconnection/pg2.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo]({{ site.baseurl }}/images/disconnection/pg7.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo]({{ site.baseurl }}/images/disconnection/pg3.jpg){: .db .w-100 }
-</div>
-
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo]({{ site.baseurl }}/images/disconnection/pg4.jpg){: .db .w-100 }
-</div>
-<div class="fl w-100 w-50-l ph2 " markdown="1">
-![kelly logo]({{ site.baseurl }}/images/disconnection/pg6.jpg){: .db .w-100 }
-</div>
 
 <!-- line -->
 <p class=" mt0 w-100 dib bb mb5 pb3"/>

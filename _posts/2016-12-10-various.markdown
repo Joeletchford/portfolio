@@ -1,0 +1,178 @@
+---
+layout: post
+title:  "Logos and Various Projects"
+date:   2016-12-28 01:43:32 -0400
+img: /images/various/2-7-19/title.jpg
+head-img:
+year: 2016&rarr;2019
+type: Branding, Publication, Web, Exhibition, Illustration, Infographic.  
+location: Minneapolis, Richmond, Washington DC, San Francisco.
+
+---
+<!--
+![alt text]({{ site.baseurl }}/images/various/third-rail.jpg){: .cf .dib .w-two-third-ns .ba .b--white-20 } -->
+
+<p class="alcove f4 f3-ns "> Various branding projects and one off designed material to enjoy </p>
+
+This post is a collection of various projects and materials that I have created over the past couple years. They may be parts of a whole, half baked ideas, or just one off designs. However, I believe they all have helped to inform my practice and are worth showing.
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns"> Endless Coffee Company branding </p>
+
+<!-- endless -->
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless]({{ site.baseurl }}/images/various/endless/photo1.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless]({{ site.baseurl }}/images/various/endless/photo2.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless]({{ site.baseurl }}/images/various/endless/1.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless]({{ site.baseurl }}/images/various/endless/2.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless]({{ site.baseurl }}/images/various/endless/3.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless]({{ site.baseurl }}/images/various/endless/4.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![endless]({{ site.baseurl }}/images/various/endless/5.jpg){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns"> Ugly Ceramics branding </p>
+
+
+
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![ugly]({{ site.baseurl }}/images/various/ugly/1.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![ugly]({{ site.baseurl }}/images/various/ugly/2.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![ugly]({{ site.baseurl }}/images/various/ugly/3.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![ugly]({{ site.baseurl }}/images/various/ugly/4.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns"> Soul Work Branding </p>
+
+
+
+
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![soul-work]({{ site.baseurl }}/images/various/soul-work/1.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![soul-work]({{ site.baseurl }}/images/various/soul-work/2.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![soul-work]({{ site.baseurl }}/images/various/soul-work/3.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![soul-work]({{ site.baseurl }}/images/various/soul-work/4.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100-l w-100 ph2 " markdown="1">
+![soul-work]({{ site.baseurl }}/images/various/soul-work/5.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns"> Pepsi's Sierra Mist rebrand </p>
+
+
+<div class="fl w-100 w-100-l ph2 " markdown="1">
+![Third Rail]({{ site.baseurl }}/images/various/sierra-mist/1.png){: .db .w-100 }
+</div>
+
+<div class="fl w-100 w-100-l  ph2 " markdown="1">
+![NYC postcard]({{ site.baseurl }}/images/various/sierra-mist/2.png){: .db .w-100 }
+</div>
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns"> Various album covers </p>
+
+
+<div class="fl w-100 w-100-l ph2 " markdown="1">
+![marcell]({{ site.baseurl }}/images/various/2-7-19/01.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100 w-100-l ph2 " markdown="1">
+![rowden]({{ site.baseurl }}/images/various/rowden.jpg){: .db .w-100 }
+</div>
+
+<div class="fl w-100 w-100-l  ph2 " markdown="1">
+![josh]({{ site.baseurl }}/images/various/circle-of-protection-bc.jpg){: .db .w-100 }
+</div>
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns"> MCAD Master of Sustainability postcard </p>
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![Masters of Sustainability]({{ site.baseurl }}/images/various/10.jpg){: .db .w-100 }
+</div>
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns">Print Magazine certificate for winners</p>
+
+
+<div class="fl w-50-l w-100 ph2 " markdown="1">
+![print]({{ site.baseurl }}/images/various/print-mag.gif){: .db .w-100 }
+</div>
+<div class="fl w-50-l w-100 ph2 " markdown="1">
+![print]({{ site.baseurl }}/images/various/print-mag.jpg){: .db .w-100 }
+</div>
+
+
+
+<!-- line -->
+<p class=" mt0 w-100 dib bb mb5 pb3"/>
+<p class="alcove f4 f3-ns">Various personal projects</p>
+
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![baseline]({{ site.baseurl }}/images/various/Screen Shot 2017-10-22 at 12.18.22 PM.png){: .db .w-100 }
+</div>
+
+
+
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![thesis]({{ site.baseurl }}/images/various/Thesis26.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 w-50-l ph2 " markdown="1">
+![thesis]({{ site.baseurl }}/images/various/Thesis29.jpg){: .db .w-100 }
+</div>
+<div class="fl w-100 ph2 " markdown="1">
+![thesis]({{ site.baseurl }}/images/various/Thesis30.jpg){: .db .w-100 }
+</div>
+
+
+<div class="fl w-100 ph2 " markdown="1">
+![Thesis diagram]({{ site.baseurl }}/images/various/presentation31.jpg){: .db .w-100 }
+</div>
